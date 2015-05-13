@@ -2,7 +2,8 @@
 A simple picnic planner.
 
 ## Jekyll initial custom setup instructions:
-### Install Jekyll according to [http://jekyllrb.com/](http://jekyllrb.com/)
+Install Jekyll according to [http://jekyllrb.com/](http://jekyllrb.com/):
+
 ```
 $ gem install jekyll
 $ jekyll new picnic
@@ -41,8 +42,11 @@ exclude: [Gemfile, Gemfile.lock, README.md]
 ```
 
 ### To build and deploy to Github pages:
-1. Remove `_site` from .gitignore
-2. `$ git add _site && git commit -m "Initial _site subtree commit"`
-3. `$ jekyll build && git subtree push --prefix _site origin gh-pages`
+* Remove `_site` from .gitignore
+
+```
+$ git add _site && git commit -m "Initial _site subtree commit"
+$ jekyll build && git subtree push --prefix _site origin gh-pages
+```
 
 * If needed, replace '_site' in above commands with the name of your build folder.

@@ -45,8 +45,14 @@ exclude: [Gemfile, Gemfile.lock, README.md]
 * Remove `_site` from .gitignore
 
 ```
+$ jekyll build
 $ git add _site && git commit -m "Initial _site subtree commit"
-$ jekyll build && git subtree push --prefix _site origin gh-pages
+$ git subtree push --prefix _site origin gh-pages
 ```
+
+**To delete gh-pages and re-push:**
+$ git push origin `git subtree split --prefix _site gh-pages`:gh-pages --force
+$ jekyll build
+$ git subtree push --prefix _site origin gh-pages
 
 * If needed, replace '_site' in above commands with the name of your build folder.

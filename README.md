@@ -34,7 +34,7 @@ gem 'github-pages', versions['github-pages']
 
 - Then run `bundle install`
 
-### Set/add the following to _config.yml:
+### Set/add the following to `_config.yml`:
 
 ```
 baseurl: /picnic
@@ -51,8 +51,8 @@ $ git subtree push --prefix _site origin gh-pages
 ```
 
 **To delete gh-pages and re-push:**
-$ git push origin `git subtree split --prefix _site gh-pages`:gh-pages --force
-$ jekyll build
-$ git subtree push --prefix _site origin gh-pages
+`$ git push origin git subtree split --prefix _site gh-pages:gh-pages --force`
+`$ jekyll build`
+`$ git subtree push --prefix _site origin gh-pages`
 
-* If needed, replace '_site' in above commands with the name of your build folder.
+* If needed, replace `_site` in above commands with the name of your build folder.

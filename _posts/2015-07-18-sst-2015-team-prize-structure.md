@@ -71,6 +71,8 @@ You can aim for 3-5 questions per lesson, but feel free to write as many as you 
 ### Question point values
 > This is still a work in progress, and may change later, but questions will likely be weighed easy, medium, and hard, with point values such as 2, 5, and 5 points.
 
+<br>
+
 ## Prizes
 
 > **Note to serving ones:**

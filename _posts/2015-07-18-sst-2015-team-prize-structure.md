@@ -69,7 +69,7 @@ You can aim for 3-5 questions per lesson, but feel free to write as many as you 
 - Fill in the blank
 
 ### Question point values
-> This is still a work in progress, and may change later, but questions will likely be weighed easy, medium, and hard, with point values such as 2, 5, and 5 points.
+> This is still a work in progress, and may change later, but questions will likely be weighed easy, medium, and hard, with point values such as 2, 3, and 5 points.
 
 <br>
 
@@ -77,4 +77,4 @@ You can aim for 3-5 questions per lesson, but feel free to write as many as you 
 
 > **Note to serving ones:**
 1. Prizes for winning team
-2. Prizes for first place verse memorization, 1 for brothers, 1 for sisters
+2. Prizes for first place verse memorization, one for brothers, one for sisters

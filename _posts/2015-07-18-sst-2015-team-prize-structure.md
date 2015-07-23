@@ -1,9 +1,13 @@
 ---
 layout: post
 title:  "SST 2015 - Team and prize structure"
-date: 2015-07-18 16:30:00
+date: 2015-07-23 18:00:00
 permalink: /structure/
 ---
+[Google Drive folder](https://drive.google.com/drive/folders/0B5G4BMERchbUflVEQUlQVWJuaF9qQzlTZFRpbG1xVEU3c1J5eVhFamE3dnJqNzFhM3E2aGM)
+<br>
+[Schedule](https://drive.google.com/open?id=0B1pMfORxcFEuQkR1QUEtT084alk)
+
 The teams and prizes are to encourage the young people to participate, pay attention in the lessons, memorize verses, and blend. We can modify the point structure as SST goes along so as to make the teams' scores as close as possible (to keep it competitive and so no one is discouraged), and we can update the young people periodically throughout SST with hints about who is in the lead, but actual numbers will not be revealed until the very end when we have prizes.
 <br>
 
@@ -17,8 +21,8 @@ Try to make the teams as balanced as possible. They should include brothers and 
 
 There will be three ways to earn points for memory verses:
 
-1. **[Main memory verses](https://docs.google.com/document/d/1GBy1zWufL_3OHsrSYUKWj04luBazWdy745gDc2z5BAo/edit?usp=sharing){:target="_blank"}** (24 total): worth more than verses in the *More memory verses* section.
-2. **[More memory verses](https://docs.google.com/document/d/1kNDLEGSBS7DCaCjR8-tbaW38V-yi-889lOUWU7TSqL4/edit?usp=sharing){:target="_blank"}** : worth less points than the *main* memory verses.
+1. **Main memory verses** (24 total): worth more than verses in the *More memory verses* section.
+2. **More memory verses** : worth less points than the *main* memory verses.
 3. **Cumulative verse challenge**: (worth a lot of points) - Recite 10 out of 24 of the main verses word for word to Joseph, Fred, or Timm. The 12 verses will be selected by Joseph, Fred, or Timm when you decide to do the challenge. Must be recited word perfect without help. Young person may be asked to start over if he/she pauses for too long.
 <br>
 
